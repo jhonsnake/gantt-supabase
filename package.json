@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@radix-ui/react-calendar": "^1.0.0",
     "@radix-ui/react-collapsible": "^1.0.3",
     "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-popover": "^1.0.7",
@@ -42,4 +41,3 @@
     "typescript": "^5"
   }
 }
-
